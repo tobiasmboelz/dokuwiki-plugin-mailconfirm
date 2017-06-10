@@ -1,0 +1,7 @@
+base   mailconfirm
+author Tobias M. Bölz
+email  mail@tobiasmboelz.de
+date   2017-06-10
+name   Confirmation Mail Action Plugin for Bureaucracy
+desc   Helper plugin for the Bureaucracy plugin that adds the "mailconfirm" action.
+url    https://github.com/tobiasmboelz/dokuwiki-plugin-mailconfirm
